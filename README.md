@@ -22,4 +22,4 @@ Below is a list of the projects you can find in this repository:
 2. **Kubernetes CKA Prep (k8s)**
    - Description: A set of Ansible playbooks and roles for setting up and managing a Kubernetes cluster deployed with Terraform.
    - Technologies Used: Ansible, Terraform, Kubernetes.
-   - Link to Project: [K8s](https://github.com/franelmarga/k8s)https://github.com/franelmarga/k8s
+   - Link to Project: [K8s](https://github.com/franelmarga/k8s)
