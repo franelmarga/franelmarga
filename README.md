@@ -1,6 +1,6 @@
 # Fran's Personal Projects
 
-Hello, I'm Fran, a student passionate about coding and technology. Welcome to my personal projects repository! Here, you'll find a collection of projects I've worked on, both for learning and personal interest.
+Hello, I'm Fran, a student passionate about coding and technology. Welcome to my personal projects repository! Here, you'll find a collection of projects I've worked on, for learning and personal interest.
 
 ## About Me
 
