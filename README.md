@@ -16,6 +16,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :gear: I am a `DevOps Engineer`.
+- :rocket: Actively seeking new challenges and opportunities as a Junior DevOps Engineer to further enhance my skills and contribute to innovative projects.
 - :cloud: Cloud infrastructures, especially`AWS`.
 - :whale: Working with containerization and orchestration using `Docker` and `Kubernetes`.
 - :wrench: I use `Terraform` and `Ansible` for infrastructure as code and configuration management.
