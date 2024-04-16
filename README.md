@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fran Margarit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/franelmarga">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Always+Automating+and+Optimizing;Cloud+Infrastructure+Enthusiast;Continuous+Integration+Advocate;Kubernetes+Administrator+Prep">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Kubernetes+Administrator+Prep">
   </a>
 </p>
 
@@ -70,12 +70,9 @@
 </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=franelmarga&theme=github" alt="GitHub Activity Graph" />
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-</details>
 
 <details><summary><h3>🏆 GitHub Trophies</h3></summary>
 <p align="center">
@@ -84,9 +81,6 @@
 </p>
 </details>
 
-<!-- A Snake eating up my contribution graph -->
-<p align="center">
-  <img src="https://github.com/franelmarga/franelmarga/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+
 
 
